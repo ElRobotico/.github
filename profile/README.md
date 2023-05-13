@@ -7,7 +7,7 @@ Welcome to the ElRobotico organization on GitHub! We are a group of friends and 
 - [@Flaam](https://github.com/Flaam)
 - [@Reda2200](https://github.com/Reda2200)
 - [@b1gp](https://github.com/b1gp)
-- [@RusoSfuso](https://github.com/RusoSfuso)
+- [@RusoSfuso](https://github.com/Rusothereal)
 - [@FrancescoFolli](https://github.com/FrancescoFolli)
 
 ## Projects
